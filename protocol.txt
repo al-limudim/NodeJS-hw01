@@ -9,3 +9,9 @@ $ git branch Initialization
 $ git switch Initialization
 $ echo '{"name":"Homework #1", "version":"0.0.1"}'>./package.json
 $ git add ./package.json
+
+$ git add ./protocol.txt
+$ git commit -m "project name and version added, protocol updated"
+
+$ vi ./README.MD
+$ git add ./README.MD
