@@ -1,0 +1,6 @@
+$ mkdir ./NodeJS-hw01
+$ cd ./NodeJS-hw01
+$ git init
+$ echo "*~">./.gitignore
+$ git add ./.gitignore
+
