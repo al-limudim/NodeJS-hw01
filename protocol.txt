@@ -15,3 +15,6 @@ $ git commit -m "project name and version added, protocol updated"
 
 $ vi ./README.MD
 $ git add ./README.MD
+
+$ git add ./protocol.txt
+$ git commit -m "project description added, protocol updated"
