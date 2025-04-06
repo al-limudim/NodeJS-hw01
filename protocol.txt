@@ -13,3 +13,9 @@ $ touch ./dist/testfile.js
 $ touch ./src/.gitkeep
 
 $ git add .
+
+$ git add ./protocol.txt
+$ git commit -m "template structure added, protocol updated"
+
+$ vi ./package.json
+$ git add .
