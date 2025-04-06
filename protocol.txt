@@ -4,3 +4,12 @@ $ git init
 $ echo "*~">./.gitignore
 $ git add ./.gitignore
 
+$ git checkout 6e01d8637033b241a2ea3ec4e5b78aec61bdecde
+$ git checkout -b "NodeJS_structure_template"
+$ mkdir ./src ./dist
+$ echo '*'>./dist/.gitignore
+$ echo '!.gitignore'>>./dist/.gitignore
+$ touch ./dist/testfile.js
+$ touch ./src/.gitkeep
+
+$ git add .
