@@ -19,3 +19,8 @@ $ git commit -m "template structure added, protocol updated"
 
 $ vi ./package.json
 $ git add .
+
+$ git add ./protocol.txt
+$ git commit -m "modules type set to ES6, protocol updated"
+
+$ git commit -a -m "protocol updated before branches merging"
