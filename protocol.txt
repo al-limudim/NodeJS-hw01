@@ -4,3 +4,8 @@ $ git init
 $ echo "*~">./.gitignore
 $ git add ./.gitignore
 
+$ git add ./protocol.txt
+$ git commit -m "First hw01 commit"
+
+$ echo "TEMP_DIR = ~/dev_tmp">./.env
+$ git add ./.env
