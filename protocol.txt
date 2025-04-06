@@ -4,3 +4,8 @@ $ git init
 $ echo "*~">./.gitignore
 $ git add ./.gitignore
 
+$ git checkout 6e01d8637033b241a2ea3ec4e5b78aec61bdecde
+$ git branch Initialization
+$ git switch Initialization
+$ echo '{"name":"Homework #1", "version":"0.0.1"}'>./package.json
+$ git add ./package.json
