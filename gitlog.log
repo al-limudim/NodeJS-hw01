@@ -1,0 +1,16 @@
+* 11a61e4 work logs added
+*   3f003f6 merging Initialization => master
+|\  
+| *   8b07ddf merging NodeJS_structure_template => Initialization
+| |\  
+| | * f12afd1 protocol updated before branches merging
+| | * 65e1ae7 modules type set to ES6, protocol updated
+| | * 74ce617 template structure added, protocol updated
+| * | 774b62a protocol updated before new branch creation
+| * | 6fc1b86 project description added, protocol updated
+| * | 09f93aa project name and version added, protocol updated
+| |/  
+* | fabb58f protocol updated before new branch creation
+* | 7ba5b5a ENV settings added
+|/  
+* 6e01d86 First hw01 commit

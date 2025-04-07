@@ -58,3 +58,11 @@ $ git commit -a -m "merging NodeJS_structure_template => Initialization"
 $ git checkout master
 $ git merge Initialization
 $ git commit -a -m "merging Initialization => master"
+
+$ git log --oneline --graph --all > ./gitlog.log
+$ git log --graph --all > ./gitlog_full.log
+$ git commit -a -m "work logs added"
+
+$ git log --oneline --graph --all > ./gitlog.log
+$ git log --graph --all > ./gitlog_full.log
+$ git commit --amend -m "work logs added, protocol updated"
